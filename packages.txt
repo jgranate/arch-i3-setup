@@ -39,7 +39,6 @@ wireplumber
 zram-generator
 ufw
 fail2ban
-yay
 networkmanager
 network-manager-applet
 nm-connection-editor
