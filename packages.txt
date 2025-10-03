@@ -1,10 +1,14 @@
 alsa-utils
 base
+base-devel
 efibootmgr
 feh
 firefox
 ghostty
+git
 htop
+intel-ucode
+linux-firmware
 nano
 openssh
 pacman-contrib
@@ -33,4 +37,9 @@ pipewire-pulse
 pipewire-jack
 wireplumber
 zram-generator
+ufw
+fail2ban
 yay
+networkmanager
+network-manager-applet
+nm-connection-editor
